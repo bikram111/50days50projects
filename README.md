@@ -1,2 +1,5 @@
-#50 Days 50 Projects 
-Using HTML, CSS & JS
+
+# 50 Days 50 Projects
+
+Projects are created using HTML, CSS & JS       
+
